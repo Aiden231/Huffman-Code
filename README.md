@@ -1,0 +1,2 @@
+# Huffman Code
+![](./result.png)
